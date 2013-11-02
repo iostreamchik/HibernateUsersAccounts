@@ -1,0 +1,18 @@
+body {
+    background: url("../images/retina_wood.png");
+    text-align: center;
+}
+
+h2 {
+    text-shadow: 0 0 7px #5d4942;
+}
+
+#sign_in {
+    text-shadow: 0 0 7px #5d4942;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+input {
+    background: url("../images/retina_wood.png");
+}
